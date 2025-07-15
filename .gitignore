@@ -1,2 +1,5 @@
 # local environment variables
 .env.local
+
+# ignore your RSA key folder
+rsa/
