@@ -3,3 +3,4 @@
 
 # ignore your RSA key folder
 rsa/
+node_modules

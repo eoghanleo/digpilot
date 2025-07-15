@@ -23,7 +23,7 @@ export default function Home() {
             </p>
           </Link>
           
-          
+          <a
             href="https://your-jotform-link.com"
             target="_blank"
             rel="noopener noreferrer"
@@ -40,3 +40,4 @@ export default function Home() {
     </main>
   )
 }
+
